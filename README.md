@@ -42,4 +42,4 @@ El modelo permite extraer la importancia de las variables, identificando las 10 
 Predicción Final y Exportación:
 
 Ambos modelos ya optimizados generan predicciones de las 500 películas nuevas del conjunto de test.
-Estas predicciones se convierten de nuevo a etiquetas de texto y se guardan como columnas adicionales en tu DataFrame de salida.
+Estas predicciones se convierten de nuevo a etiquetas de texto y se guardan como columnas adicionales en el DataFrame de salida.
