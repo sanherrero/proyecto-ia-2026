@@ -3,6 +3,8 @@
 Proyecto de Aprendizaje Automático con Árboles de Decisión y Redes Neuronales.
 Trabajo de Lautaro Coñoen y Santiago Herrero.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanherrero/proyecto-ia-2026/blob/main/proyecto.ipynb)
+
 Descripción General del Proyecto
 Este proyecto es un sistema de Aprendizaje Automático (Machine Learning) enfocado en la clasificación de películas en tres categorías de calidad: "Mala", "Buena" y "Muy buena". El objetivo principal es entrenar y comparar dos arquitecturas de modelos distintas: un Árbol de Decisión y una Red Neuronal Artificial (RNA), utilizando un conjunto de datos con características diversas de las películas.
 
